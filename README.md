@@ -195,3 +195,4 @@ while on most other platforms, such as FreeBSD, you can run
 Contributions, in various forms, are always welcome. If you run into a problem or have an improvement you'd like to see included, please use GitHub's tools to submit an issue ticket or a pull request. Should you encounter a bug  you feel is a security concern, please contact the developer privately at jessefrgsmith AT yahoo DOT ca.
 
 Financial donations are always welcome and can be submitted via PayPal to jessefrgsmith AT yahoo DOT ca or through Patreon at https://www.patreon.com/sysvinit . Thank you for your support.
+
