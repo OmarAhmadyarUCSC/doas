@@ -73,6 +73,7 @@ jobs:
           sarif-output: sarif
 
       - name: Upload SARIF file(s)
+        permissions: write-all
         uses: github/codeql-action/upload-sarif@v2
         with:
           sarif_file: sarif

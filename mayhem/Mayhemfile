@@ -1,5 +1,5 @@
-project: Project
-target: doasfuzz
+project: cps-project
+target: doas
 duration: 60
 
 image: ghcr.io/omarahmadyarucsc/doas:latest
