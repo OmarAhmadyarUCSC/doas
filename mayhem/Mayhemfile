@@ -2,7 +2,7 @@ project: Project
 target: doasfuzz
 duration: 60
 
-image: ghcr.io/omarahmadyarucsc/doasfuzz:latest
+image: ghcr.io/omarahmadyarucsc/doas:latest
 cmds:
   - cmd: /doas ls
     filepath: /usr/local/etc/doas.conf
